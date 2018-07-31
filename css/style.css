@@ -1,0 +1,61 @@
+body{
+	position: absolute;
+	font-family: 'Poiret One', cursive;
+	background-color: #d0e7d9;
+}
+
+h1{
+	position: relative;
+	text-align: center;
+	padding-left: 2.3em;
+	font-size: 3em;
+	color: #121718;
+}
+
+
+#container1{
+	position: absolute;
+	background-color: #d4dddf;
+	width: 25em;
+	height: 40em;
+	border: 0.4em solid #29393a;
+	border-radius: 1.2em;
+}
+
+#container2{
+	display: inline-block;
+	text-align: center;
+	padding-left: 4em;
+	padding-top: 1.26em;
+	float: left;
+	padding-bottom: 4em;
+}
+
+#addItem{
+	font-family: 'Poiret One', cursive;
+	display: inline-block;
+	color: #121718;
+	float: right;
+	height: 2.4em;
+	width: 4em;
+	margin-top: 1.8em;
+	margin-right: 3em;
+	border: 0.2em solid black;
+	border-radius: 0.4em;
+}
+
+#addtolist{
+	position: relative;
+	background-color: #ecf8f9;
+	width: 22em;
+	height: 2em;
+	float: right;
+	border: 0.2em solid black;
+	border-radius: 0.4em;
+}
+
+#todolist{
+	padding-top: 1.1em;
+	color: #121718;
+	font-size: 1.4em;
+}
